@@ -1,0 +1,9 @@
+[submodule "Bridges_in_graph_Java"]
+	path = Bridges_in_graph_Java
+	url = git@github.com:PodoprigoraIvan/Bridges_in_graph_Java.git
+[submodule "sort-visualizer"]
+	path = sort-visualizer
+	url = git@github.com:lexapech/sort-visualizer.git
+[submodule "prim_algo_visualizer"]
+	path = prim_algo_visualizer
+	url = git@github.com:karinotc/prim_algo_visualizer.git
